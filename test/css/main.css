@@ -1,0 +1,59 @@
+	/*OPPSETT AV TOP, TOPNAV, SIDENAV, MAIN, RIGHT OG FOOTER:*/
+	.top {
+    position:relative;
+    background-color:#ffffff;
+    height:68px;
+    padding-top:20px;
+    line-height:50px;
+    overflow:hidden;
+    z-index:2;
+    }
+    .w3schools-logo {
+    font-family:fontawesome;
+    text-decoration:none;
+    line-height:1;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    font-size:37px;
+    letter-spacing:3px;
+    color:#555555;
+    display:block;
+    position:absolute;
+    top:17px;
+    }
+    .w3schools-logo .dotcom {color:#4CAF50}
+    .topnav {
+    position:relative;
+    z-index:2;
+    font-size:17px;
+    background-color:#5f5f5f;
+    color:#f1f1f1;
+    width:100%;
+    padding:0;
+    letter-spacing:1px;
+    font-family:"Segoe UI",Arial,sans-serif;
+    }
+    .topnav a{
+    padding:10px 15px 9px 15px !important;
+    }
+    .topnav .w3-bar a:hover,.topnav .w3-bar a:focus{
+    background-color:#000000 !important;
+    color:#ffffff !important;
+    }
+    .topnav .w3-bar a.active {
+    background-color:#4CAF50;
+    color:#ffffff;
+    }
+    a.topnav-icons {
+    width:52px !important;
+    font-size:20px !important;
+    padding-top:11px !important;
+    padding-bottom:13px !important;
+    }
+    a.topnav-icons.fa-home {font-size:22px !important}
+    a.topnav-icons.fa-menu {font-size:22px !important}
+    a.topnav-localicons {
+    font-size:20px !important;
+    padding-top:6px !important;
+    padding-bottom:12px !important;
+    }
