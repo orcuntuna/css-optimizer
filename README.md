@@ -1,7 +1,7 @@
 # css-optimizer
 PHP CSS Optimizer
 
-###Özellikler
+##Özellikler
 
 - Sıkıştırma
 - Birleştirme
@@ -9,7 +9,7 @@ PHP CSS Optimizer
 
 (Local yada uzak sunucudaki cssleri beraber kullanabilirsiniz)
 
-###Kullanımı
+##Kullanımı
 
 ```php
 include '../class.cssoptimizer.php';
